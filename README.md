@@ -10,7 +10,7 @@
          - reactjs code snippets
          - (tip)
             - no install about key tools!
-    2. 환경 설정
+    2. setting
          - new workspace( but, i'm git ) 
          - test01 : javascript& react study folder
             - sample01.js
@@ -24,3 +24,10 @@
             6.9.0
             ```
          - 
+    4. key comdo...
+        - `ctrl + a` and `ctrl + k + f` : `전체 선택` and `코드 자동 정렬`
+        - `ctrl + c`(블록 설정 없이) : 한줄 복사 
+        - alt + shift + ↓ : 블록 복사 밑으로 쭉...
+        - `ctrl + /` : 라인 주석
+        - `ctrl + \` : 창 복사
+        - `alt + 방향키` : 특정 라인을 위로 올리거나 내릴때
