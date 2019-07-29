@@ -12,12 +12,15 @@
             - no install about key tools!
     2. 환경 설정
          - new workspace( but, i'm git ) 
-         - javascript& react study - test01
+         - test01 : javascript& react study folder
+            - sample01.js
 
-    3. install node.js 
-         - ```console
+    3. install node.js [download](https://nodejs.org/ko/download/)
+         - check to installed
+            ```console
             C:\hello\system32>node -v
             v10.16.0
             C:\hello\system32>npm -v
             6.9.0
-           ```
+            ```
+         - 
