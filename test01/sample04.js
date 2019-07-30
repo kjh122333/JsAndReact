@@ -14,13 +14,3 @@ typeof (a);
 // let data b3 = {
 // (a tger_)
 // };     //무조건 스코프(괄화가) 가 열리
-
-varv c true;
-d vcome{
-else
-}
-
-f  funcktionP{
-
-[]          
-}
