@@ -8,8 +8,8 @@
 ## 특징
 - React는 ***`VIEW`에만 특화된 라이브러리*** 이다.
 - **Flux Model Pattern**(옵저버패턴과 비슷)
-    > **Flux Model Pattern**
-    > ![ex_screenshot](./img/screenshot.png)
+    > **Flux Model Pattern**  
+    > ![fluxpattern](./images/fluxpattern.png)
     > - 단방향 데이터 흐름.
     > - 
 - ***`Conponent`*** (클래스와 비슷)
